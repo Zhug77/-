@@ -1,0 +1,3 @@
+2048文件夹是cocos creator创建的文件，可以直接用cocos creator打开该文件夹
+assets是脚本文件夹
+build文件夹下的wechatgame-003是构建好的供微信开发者工具使用的项目文件，可以用微信开发者工具打开该文件夹
